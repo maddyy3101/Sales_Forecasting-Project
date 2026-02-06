@@ -27,6 +27,17 @@ Retail organization wants predictive analytics instead of reactive reporting.
 ## How to Run
 Download the `.pbix` file from /powerbi and open in Power BI Desktop.
 
-## Screenshots
-(Insert images here)
+## Dashboard Screenshots
+
+### Overview Dashboard
+![Overview](screenshots/Dashboard.png)
+
+### Forecast Analysis
+![Forecast](screenshots/ForecastAnalysis.png)
+
+### Insights & Recommendations
+![Insights](screenshots/Insights.png)
+
+### Executive Summary
+![Summary](screenshots/Summary.png)
 
